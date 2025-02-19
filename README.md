@@ -33,10 +33,6 @@ This is an Amazon Clone project built to replicate the UI and basic functionalit
 - Browse products and add them to the cart.
 - Proceed to checkout.
 
-## 📸 Screenshots
-
-*(Add relevant screenshots here)*
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
